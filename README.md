@@ -1,6 +1,6 @@
 
 
-<center><img margin="50%" src="https://user-images.githubusercontent.com/108251093/184663439-11043d2d-f7d1-410f-90b3-66bc900dfb89.JPG" width="400px"></center>
+<center><img src="https://user-images.githubusercontent.com/108251093/184663439-11043d2d-f7d1-410f-90b3-66bc900dfb89.JPG" width="300px"></center>
 
 <h1> Hi, I'm Carol </h1>
 
