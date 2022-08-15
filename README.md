@@ -1,4 +1,6 @@
-<img algin="right" src="https://user-images.githubusercontent.com/108251093/184622463-3cac4a04-c522-4963-a069-9d69bfe8ff30.jpg" width="300"/>
+
+
+<center><img margin="50%" src="https://user-images.githubusercontent.com/108251093/184663439-11043d2d-f7d1-410f-90b3-66bc900dfb89.JPG" width="400px"></center>
 
 <h1> Hi, I'm Carol </h1>
 
